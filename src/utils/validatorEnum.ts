@@ -1,5 +1,5 @@
 export enum EnrollmentStatus {
   ENROLLED = 'Enrolled',
-  GRADUATED = 'Graduatd',
+  GRADUATED = 'Graduated',
   ALUMNI = 'Alumni',
 }
